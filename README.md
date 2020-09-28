@@ -12,6 +12,25 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### 'login Credentials'
+There are two users and there is a serprate view for each user. Credentials are case sensitive so please enter the correct username and password as  mentioned.
+###
+const firstLogin = {
+##  username:"John",
+##  password:"12345",
+  role:"line-chart-user"
+}
+##
+const secondLogin = {
+##  username:"MICKY",
+##  password:"98765",
+  role:"pie-chart-user"
+}
+
+
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
